@@ -7,6 +7,7 @@ Address :: Address( int number, const std::string& street, int postCode )
 {
     this->number = number;
     this->street = street;
+    
     this->postCode = postCode;
 }
 
